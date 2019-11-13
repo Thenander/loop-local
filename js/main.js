@@ -118,8 +118,8 @@ const msToDate = duration => {
   const days = [
     "Söndag",
     "Måndag",
-    "Tuesday",
-    "Wednesday",
+    "Tisdag",
+    "Onsdag",
     "Torsdag",
     "Fredag",
     "Lördag"
